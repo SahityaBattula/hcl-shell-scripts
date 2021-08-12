@@ -1,6 +1,5 @@
 #!/bin/bash
-echo "enter a number [0-11]"
-read n
+
 case $n in
 	0)
 		echo "jan" ;;
