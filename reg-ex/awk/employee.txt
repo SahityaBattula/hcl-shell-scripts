@@ -1,0 +1,5 @@
+bargavi manager sales 25000
+kishore manager account 20000
+ankith clerk account 15000
+sahitya manager account 40000
+sanjana peon sales 15000
